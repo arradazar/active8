@@ -10,7 +10,7 @@ Design/Tech Stack
 - Sketch
 - HTML/CSS
 - Jquery/Javascript
-Note: I decided not to use any CSS Frameworks for the projects so i can showcase then extent of my HTML/CSS experience
+>Note: I decided not to use any CSS Frameworks for the projects so i can showcase then extent of my HTML/CSS experience
 
 # Directory
 
