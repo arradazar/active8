@@ -14,6 +14,13 @@
     </head>
     <body>
         <div class="contain">
+            <div class="splash">
+                <img src="../assets/images/svg/logo.svg">
+                <div class="footer">
+                    <label>Powered By</label>
+                    <label class="name">Active8POS</label>
+                </div>
+            </div>
             <section class="checkout">
                 <header>
                     <div class="container wrapper" id ="menuToggle">
@@ -360,6 +367,16 @@
                 $input.val(parseInt($input.val()) + 1);
                 $input.change();
                 return false;
+            });
+
+
+            $(function() {
+                var timer = setInterval(showDashboard, 2000);
+
+                function showDashboard() {
+                    $('.splash').remove();
+                }
+
             });
         </script>
     </body>

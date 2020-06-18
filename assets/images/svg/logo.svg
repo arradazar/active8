@@ -25,6 +25,8 @@
                 <text id="POINT-OF-SALE" font-family="SFProText-SemiboldItalic, SF Pro Text" font-size="10.58989" font-style="italic" font-weight="500" letter-spacing="1.66412559" fill="#1518DF">
                     <tspan x="121.153252" y="57.6545048">POINT OF SALE</tspan>
                 </text>
+                <circle id="Oval" fill="#FFFFFF" cx="244" cy="12" r="3"></circle>
+                <circle id="Oval" fill="#FFFFFF" cx="243" cy="25" r="3"></circle>
             </g>
         </g>
     </g>
