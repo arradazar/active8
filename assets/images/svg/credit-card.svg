@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="45px" viewBox="0 0 68 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Group 23</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="28.1033737%" x2="100%" y2="106.963857%" id="linearGradient-1">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#D8D8D8" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="68" height="45" rx="5"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#5898A8" offset="0%"></stop>
+            <stop stop-color="#83DAF6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#FFA06E" stop-opacity="0.991641171" offset="0%"></stop>
+            <stop stop-color="#B06A13" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-2" transform="translate(-95.000000, -659.000000)">
+            <g id="Group-21" transform="translate(53.000000, 629.000000)">
+                <g id="Group-24" transform="translate(14.000000, 30.000000)">
+                    <g id="Group-23" transform="translate(28.000000, 0.000000)">
+                        <g id="Group-22">
+                            <mask id="mask-3" fill="white">
+                                <use xlink:href="#path-2"></use>
+                            </mask>
+                            <use id="Rectangle" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                            <rect id="Rectangle" fill="#FFFFFF" mask="url(#mask-3)" x="0" y="10" width="68" height="13"></rect>
+                        </g>
+                        <circle id="Oval" fill="url(#linearGradient-4)" cx="52.5" cy="35.5" r="4.5"></circle>
+                        <circle id="Oval" fill="url(#linearGradient-5)" cx="58.5" cy="35.5" r="4.5"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

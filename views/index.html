@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <link rel="shortcut icon" href="../assets/images/svg/favicon.svg">
+        <link rel="stylesheet" href="../assets/css/style.css">
+        <link rel="stylesheet" href="../assets/css/media.css">
+        <link rel="stylesheet" href="../assets/css/card-provider.css">
+        <title>Active8POS · Checkout</title>
+    </head>
+    <body>
+        <div class="contain">
+            <section class="checkout">
+                <header>
+                    <div class="container wrapper" id ="menuToggle">
+                        <a href="/" class="branding-logo hidden-lg">
+                            <img src="../assets/images/svg/logo.svg" alt="" class="image">
+                        </a>
+                        <div class="nav">
+                            <ul>
+                                <li>Bouquets</li>
+                                <li>Gift Items</li>
+                                <li class="icon"><img src="../assets/images/svg/search.svg"></li>
+                                <li class="icon"><img src="../assets/images/svg/bell.svg"></li>
+                                <li class="icon active"><img src="../assets/images/svg/shopping-bag.svg"></li>
+                                <li class="profile">
+                                    Hi, Marj
+                                    <img src="../assets/images/svg/avatar.svg">
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </header>
+                <div class="contain details">
+                    <img src="../assets/images/svg/banner.svg">
+                    <label class="breadcrumbs">
+                        <span class="done">1. Listing Details&nbsp;&nbsp;</span>/
+                        <span class="active">2. Checkout&nbsp;&nbsp;</span>/
+                        <span>3. Order Complete</span>
+                    </label>
+                    <div class="shipping">
+                        <h5>Shipping Details</h5>
+                        <div class="address-wrapper">
+                            <img src="../assets/images/svg/location.svg">
+                            <div class="address">
+                                <label><b>Mary Jane Jenkins</b> | 910-818-4705</label>
+                                <label>4564 Layman Avenue, Fayeteville </label>
+                                <label>North Carolina , 28314</label>
+                            </div>
+                            <a href="#">Change</a>
+                        </div>
+                    </div>
+                    <div class="payment">
+                        <h5>Payment Method</h5>
+                        <div class="options-wrapper">
+                            <div class="options credit active">
+                                <div class="selected"></div>
+                                <img src="../assets/images/svg/credit-card.svg">
+                                <label>Credit Card</label>
+                            </div>
+                            <div class="options paypal">
+                                <div class="selected"></div>
+                                <img src="../assets/images/svg/paypal.svg">
+                                <label>PayPal</label>
+                            </div>
+                            <div class="options cod">
+                                <div class="selected"></div>
+                                <img src="../assets/images/svg/cod.svg">
+                                <label>Cash on Delivery</label>
+                            </div>
+                        </div>
+                        <form class="payment-information">
+                            <div class="form-wrapper">
+                                <div class="form-field col-5">
+                                    <label>Name on Card</label>
+                                    <input type="text" class="cc-name" placeholder="John Doe">
+                                </div>
+                                <div class="form-field col-7">
+                                    <label>Card Number</label>
+                                    <input type="text" maxlength="19" placeholder="XXXX XXXX XXXX XXXX" class="cc-number-input">
+                                    <div class="cc-types">
+                                        <img class="cc-types__img cc-types__img--amex">
+                                        <img class="cc-types__img cc-types__img--visa">
+                                        <img class="cc-types__img cc-types__img--mastercard">
+                                        <img class="cc-types__img cc-types__img--disc">
+                                    </div>
+                                </div>
+                                <div class="form-field col-5">
+                                    <label>Expiry Date</label>
+                                    <input type="text" maxlength="5" class="cc-expiry-input" placeholder="MM/YY">
+                                </div>
+                                <div class="form-field col-7">
+                                    <label>CCV/CVV</label>
+                                    <input type="text" maxlength="3" class="cc-cvc-input" placeholder="3 or 4 digit number">
+                                </div>
+                                <div class="form-field-h">
+                                    <div class="button-switch">
+                                        <input type="checkbox" id="switch-orange" class="switch" />
+                                        <label for="switch-orange" class="lbl-off"></label>
+                                        <label for="switch-orange" class="lbl-on"></label>
+                                    </div>
+                                    <label>Securely save this card for a faster checkout next time</label>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </section>
+            <section class="cart">
+                <div class="headline">
+                    <h2>
+                        Your Cart
+                    </h2>
+                    <a href="#">Add More Items</a>
+                </div>
+                <div class="order-wrapper">
+                    <br><br>
+                    <div class="order">
+                        <div class="info">
+                            <div class="photo" style="background-image: url('https://images.unsplash.com/photo-1526047932273-341f2a7631f9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1100&q=80')"></div>
+                            <label>
+                                Pink Puff assorted in heart-Shaped bouquet
+                                <div class="number">
+                                    <span class="minus">-</span>
+                                    <input type="text" value="1"/>
+                                    <span class="plus">+</span>
+                                </div>
+                                <div class="add-ons-wrapper">
+                                    <h5>ADD-ONS</h5>
+                                    <div class="add-ons">
+                                        <label>Happy Birthday Card</label>
+                                        <label>Sweet Sixteen Candles</label>
+                                    </div>
+                                </div>
+                            </label>
+                        </div>
+                        <label class="price">$12.00</label>
+                    </div>
+                    <div class="order">
+                        <div class="info">
+                            <div class="photo" style="background-image: url('https://images.unsplash.com/photo-1468679950062-7f9630082231?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80')"></div>
+                            <label>
+                                Cascading assorted Ecuadorian Rose bouquet in a Burlap wrapp...  
+                                <div class="number">
+                                    <span class="minus">-</span>
+                                    <input type="text" value="1"/>
+                                    <span class="plus">+</span>
+                                </div>
+                            </label>
+                        </div>
+                        <label class="price">$7.50</label>
+                    </div>
+                    <div class="order">
+                        <div class="info">
+                            <div class="photo" style="background-image: url('https://images.unsplash.com/photo-1533910534207-90f31029a78e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80')"></div>
+                            <label>
+                                Romantic Dozen donut (12pcs/box)
+                                <div class="number">
+                                    <span class="minus">-</span>
+                                    <input type="text" value="1"/>
+                                    <span class="plus">+</span>
+                                </div>
+                            </label>
+                        </div>
+                        <label class="price">$10.00</label>
+                    </div>
+                </div>
+                <div class="upsell-wrapper">
+                    <h5>People also ordered</h5>
+                    <section class="horizontal-scroll _hejej">
+                        <div class="upsell">
+                            <div class="photo" style="background-image: url('https://images.pexels.com/photos/1030899/pexels-photo-1030899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260')"></div>
+                            <div class="info">
+                                <label class="name">Feverfew Daisies bundle add-ons</label>
+                                <label class="price">$7.50</label>
+                            </div>
+                        </div>
+                        <div class="upsell">
+                            <div class="photo" style="background-image: url('https://images.unsplash.com/photo-1556227702-d7f3e38b7d16?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80')"></div>
+                            <div class="info">
+                                <label class="name">Jewel Toned Colored Balloons</label>
+                                <label class="price">$3.00</label>
+                            </div>
+                        </div>
+                        <div class="upsell">
+                            <div class="photo" style="background-image: url('https://images.unsplash.com/photo-1526886196289-10ad6c837f38?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=638&q=80')"></div>
+                            <div class="info">
+                                <label class="name">Giant Peonies in glass vase</label>
+                                <label class="price">$10.00</label>
+                            </div>
+                        </div>
+                        <div class="upsell">
+                            <div class="photo" style="background-image: url('https://images.unsplash.com/photo-1579236489634-42ff4cbaadc6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80')"></div>
+                            <div class="info">
+                                <label class="name">Helium Pastel Balloons...</label>
+                                <label class="price">$20.00</label>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+                <div class="computation-wrapper">
+                    <div class="computation">
+                        <label>Subtotal</label>
+                        <label class="price">$29.50</label>
+                    </div>
+                    <div class="computation">
+                        <label>Tax</label>
+                        <label class="price">$1.52</label>
+                    </div>
+                    <div class="computation">
+                        <label>Delivery Fee</label>
+                        <label class="price">$4.00</label>
+                    </div>
+                    <hr>
+                    <div class="computation discount">
+                        <label>Discount</label>
+                        <label class="price">
+                            <a href="#">Add a Promo</a>
+                        </label>
+                    </div>
+                    <br><br><br><br><br>
+                    <div class="computation total">
+                        <div class="computation">
+                            <label>TOTAL</label>
+                            <label class="price">$35.02</label>
+                        </div>
+                        <button>
+                            <img src="../assets/images/svg/lock.svg">
+                            Place Order
+                        </button>
+                    </div>
+                </div>
+                <br><br><br>
+            </section>
+        </div>
+        <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+        <script type="text/javascript">
+            // Credit Card masking and provider check function
+            let ccNumberInput = document.querySelector(".cc-number-input"),
+            ccNumberPattern = /^\d{0,16}$/g,
+            ccNumberSeparator = " ",
+            ccNumberInputOldValue,
+            ccNumberInputOldCursor,
+            ccExpiryInput = document.querySelector(".cc-expiry-input"),
+            ccExpiryPattern = /^\d{0,4}$/g,
+            ccExpirySeparator = "/",
+            ccExpiryInputOldValue,
+            ccExpiryInputOldCursor,
+            ccCVCInput = document.querySelector(".cc-cvc-input"),
+            ccCVCPattern = /^\d{0,3}$/g,
+            mask = (value, limit, separator) => {
+                var output = [];
+                for (let i = 0; i < value.length; i++) {
+                    if (i !== 0 && i % limit === 0) {
+                        output.push(separator);
+                    }
+
+                    output.push(value[i]);
+                }
+
+                return output.join("");
+            },
+            unmask = (value) => value.replace(/[^\d]/g, ""),
+            checkSeparator = (position, interval) => Math.floor(position / (interval + 1)),
+            ccNumberInputKeyDownHandler = (e) => {
+                let el = e.target;
+                ccNumberInputOldValue = el.value;
+                ccNumberInputOldCursor = el.selectionEnd;
+            },
+            ccNumberInputInputHandler = (e) => {
+                let el = e.target,
+                    newValue = unmask(el.value),
+                    newCursorPosition;
+
+                if (newValue.match(ccNumberPattern)) {
+                    newValue = mask(newValue, 4, ccNumberSeparator);
+
+                    newCursorPosition =
+                        ccNumberInputOldCursor -
+                        checkSeparator(ccNumberInputOldCursor, 4) +
+                        checkSeparator(
+                            ccNumberInputOldCursor + (newValue.length - ccNumberInputOldValue.length),
+                            4
+                        ) +
+                        (unmask(newValue).length - unmask(ccNumberInputOldValue).length);
+
+                    el.value = newValue !== "" ? newValue : "";
+                } else {
+                    el.value = ccNumberInputOldValue;
+                    newCursorPosition = ccNumberInputOldCursor;
+                }
+
+                el.setSelectionRange(newCursorPosition, newCursorPosition);
+
+                highlightCC(el.value);
+            },
+            highlightCC = (ccValue) => {
+                let ccCardType = "",
+                    ccCardTypePatterns = {
+                        amex: /^3/,
+                        visa: /^4/,
+                        mastercard: /^5/,
+                        disc: /^6/,
+
+                        genric: /(^1|^2|^7|^8|^9|^0)/
+                    };
+
+                for (const cardType in ccCardTypePatterns) {
+                    if (ccCardTypePatterns[cardType].test(ccValue)) {
+                        ccCardType = cardType;
+                        break;
+                    }
+                }
+
+                let activeCC = document.querySelector(".cc-types__img--active"),
+                    newActiveCC = document.querySelector(`.cc-types__img--${ccCardType}`);
+
+                if (activeCC) activeCC.classList.remove("cc-types__img--active");
+                if (newActiveCC) newActiveCC.classList.add("cc-types__img--active");
+            },
+            ccExpiryInputKeyDownHandler = (e) => {
+                let el = e.target;
+                ccExpiryInputOldValue = el.value;
+                ccExpiryInputOldCursor = el.selectionEnd;
+            },
+            ccExpiryInputInputHandler = (e) => {
+                let el = e.target,
+                    newValue = el.value;
+
+                newValue = unmask(newValue);
+                if (newValue.match(ccExpiryPattern)) {
+                    newValue = mask(newValue, 2, ccExpirySeparator);
+                    el.value = newValue;
+                } else {
+                    el.value = ccExpiryInputOldValue;
+                }
+            };
+
+            ccNumberInput.addEventListener("keydown", ccNumberInputKeyDownHandler);
+            ccNumberInput.addEventListener("input", ccNumberInputInputHandler);
+
+            ccExpiryInput.addEventListener("keydown", ccExpiryInputKeyDownHandler);
+            ccExpiryInput.addEventListener("input", ccExpiryInputInputHandler);
+
+            $(".minus").click(function () {
+                var $input = $(this).parent().find("input");
+                var count = parseInt($input.val()) - 1;
+                count = count < 1 ? 1 : count;
+                $input.val(count);
+                $input.change();
+                return false;
+            });
+
+            $(".plus").click(function () {
+                var $input = $(this).parent().find("input");
+                $input.val(parseInt($input.val()) + 1);
+                $input.change();
+                return false;
+            });
+        </script>
+    </body>
+</html>

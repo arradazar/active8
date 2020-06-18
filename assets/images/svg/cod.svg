@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="45px" viewBox="0 0 68 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Group 25</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="34.4728112%" y1="8.1584222%" x2="63.6282474%" y2="96.0415227%" id="linearGradient-1">
+            <stop stop-color="#90F0A4" offset="0%"></stop>
+            <stop stop-color="#53AC60" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-2" transform="translate(-444.000000, -659.000000)">
+            <g id="Group-21" transform="translate(401.000000, 629.000000)">
+                <g id="Group-25" transform="translate(43.000000, 30.000000)">
+                    <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="0" width="68" height="45" rx="1"></rect>
+                    <g id="Group-32" transform="translate(23.000000, 11.000000)">
+                        <circle id="Oval" stroke="#2A8139" stroke-width="3" fill="#FFFFFF" cx="11.5" cy="11.5" r="10"></circle>
+                        <text id="$" font-family="SFProDisplay-Semibold, SF Pro Display" font-size="14" font-weight="500" fill="#2A8139">
+                            <tspan x="7" y="16">$</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

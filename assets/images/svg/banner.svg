@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="797px" height="149px" viewBox="0 0 797 149" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="797" height="149" rx="10"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-2" transform="translate(-52.000000, -142.000000)">
+            <g id="Group-3" transform="translate(52.000000, 142.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Rectangle" fill-opacity="0.263685533" fill="#1B2ECB" xlink:href="#path-1"></use>
+                <circle id="Oval" fill="#3C92E0" mask="url(#mask-2)" cx="668" cy="253" r="149"></circle>
+                <path d="M116.122994,85 C148.15551,85 174.122994,52.764502 174.122994,13 C174.122994,-26.764502 148.15551,-59 116.122994,-59 C84.0904786,-59 102.122994,-17 58.1229941,13 C14.1229941,43 84.0904786,85 116.122994,85 Z" id="Oval" fill-opacity="0.625901442" fill="#D8DCFF" mask="url(#mask-2)"></path>
+                <ellipse id="Oval" fill-opacity="0.360576923" fill="#436BBF" mask="url(#mask-2)" cx="761" cy="129" rx="93" ry="49"></ellipse>
+                <path d="M765.786406,34.4045315 L820.786406,16.0711981 C824.454009,14.8486637 828.418249,16.8307836 829.640783,20.4983868 C829.878705,21.2121521 830,21.9596065 830,22.7119812 L830,81.9546855 C830,84.9676983 828.071989,87.6426702 825.213594,88.5954685 L770.213594,106.928802 C766.545991,108.151336 762.581751,106.169216 761.359217,102.501613 C761.121295,101.787848 761,101.040393 761,100.288019 L761,41.0453145 C761,38.0323017 762.928011,35.3573298 765.786406,34.4045315 Z" id="Rectangle" fill-opacity="0.577114292" fill="#417EA9" mask="url(#mask-2)"></path>
+                <path d="M779.786406,47.4045315 L834.786406,29.0711981 C838.454009,27.8486637 842.418249,29.8307836 843.640783,33.4983868 C843.878705,34.2121521 844,34.9596065 844,35.7119812 L844,94.9546855 C844,97.9676983 842.071989,100.64267 839.213594,101.595469 L784.213594,119.928802 C780.545991,121.151336 776.581751,119.169216 775.359217,115.501613 C775.121295,114.787848 775,114.040393 775,113.288019 L775,54.0453145 C775,51.0323017 776.928011,48.3573298 779.786406,47.4045315 Z" id="Rectangle" fill-opacity="0.70550153" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                <g id="Group-5" mask="url(#mask-2)">
+                    <g transform="translate(33.000000, 26.000000)">
+                        <text id="Your-information-is" font-family="SFProDisplay-Bold, SF Pro Display" font-size="28" font-weight="bold" fill-opacity="0.775950612">
+                            <tspan x="0" y="27" fill="#333333">Your information is secured!</tspan>
+                        </text>
+                        <text id="We-respect-and-are-c" font-family="SFProDisplay-Regular, SF Pro Display" font-size="16" font-weight="normal" fill-opacity="0.638822115">
+                            <tspan x="0" y="56" fill="#333333">We respect and are committed to protecting your privacy. We do not sell or pass </tspan>
+                            <tspan x="0" y="75" fill="#333333">along your personal information to anyone. Your payment and personal information </tspan>
+                            <tspan x="0" y="94" fill="#333333">is always safe.</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

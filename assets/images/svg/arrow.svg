@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="8px" viewBox="0 0 12 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>_root icons / chevron-right / regular</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7.20074368,2.33612589 L4.94699368,0.0823797423 C4.83716556,-0.0274716325 4.659064,-0.027448195 4.54925931,0.0823797423 L2.29557962,2.33605558 C2.11895462,2.51268028 2.244064,2.81614851 2.49444681,2.81617195 L4.09199368,2.81621882 L4.09199368,10.6875022 L1.74824368,10.6875022 C1.67365083,10.6874954 1.60211257,10.7171309 1.5493765,10.7698849 L0.799376495,11.5198836 C0.622188995,11.6970474 0.74767337,12 0.998243683,12 L4.84199368,12 C5.15265775,12 5.40449368,11.7481645 5.40449368,11.437501 L5.40449368,2.81624226 L7.00185306,2.8162657 C7.25089993,2.8162657 7.37839993,2.51378184 7.20074368,2.33612589 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-2" transform="translate(-1060.000000, -284.000000)">
+            <g id="Group-4" transform="translate(899.000000, 0.000000)">
+                <g id="order" transform="translate(40.000000, 140.000000)">
+                    <g id="Group-27" transform="translate(121.000000, 117.000000)">
+                        <g id="Group-26" transform="translate(0.000000, 23.000000)">
+                            <g id="_root-icons-/-chevron-right-/-regular" transform="translate(6.000000, 8.000000) rotate(90.000000) translate(-6.000000, -8.000000) translate(2.000000, 2.000000)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <use id="level-up-alt" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                                <g id="_root-Colors-/-Brand-Black" mask="url(#mask-2)" fill="#4D5067">
+                                    <g transform="translate(-2.000000, 0.000000)" id="swatch">
+                                        <rect x="0" y="0" width="12" height="12"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
