@@ -22,7 +22,7 @@ Enhancements
 
 # Hi-Fi Design made using Sketch 💎
 `/designs/sketch/`
-Rendered Design of Checkout page
+- Rendered Design of Checkout page
 ![alt text](https://github.com/arradazar/active8/blob/master/sketch/Active8.png)
 
 # Checkout Page
