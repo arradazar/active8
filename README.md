@@ -34,4 +34,4 @@ Enhancements
 # Media assets (mostly rendered in svg)
 `/assets/images/`
 
->Note: All vectors or images, icons were in this page were made by yours truly. except for the photos a they were take from Unsplash/Pexels website
+>Note: All vectors or images, icons in this page were made by yours truly. except for the stock photos as they were taken from Unsplash/Pexels website
