@@ -13,7 +13,7 @@ Design/Tech Stack
 - Sketch
 - HTML/CSS
 - Jquery/Javascript
->Note: I decided not to use any CSS Frameworks for the projects so i can showcase then extent of my HTML/CSS experience
+>Note: I decided not to use any CSS Frameworks for the project so i can showcase the extent of my HTML/CSS experience
 
 Enhancements
 - Added my reinterpretation of Active8's branding(logo) and incorporated it in the designs
